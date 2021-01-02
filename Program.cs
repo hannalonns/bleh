@@ -20,7 +20,7 @@ namespace Laboration_2
         private static bool MainMenu()
         {
             Console.WriteLine("\n----------Meny-----------");
-            Console.WriteLine("\n  Welcome to Lockdown University!");
+            Console.WriteLine("\n  Welcome to Lockdown University!!!");
             Console.WriteLine("\n Press 'Enter' in order to start the game");
             Console.WriteLine("I you to not want to play. just write 'no'.");
             string result = Console.ReadLine();
