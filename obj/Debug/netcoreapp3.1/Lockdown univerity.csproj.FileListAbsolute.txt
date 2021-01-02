@@ -1,0 +1,11 @@
+C:\Users\hanna\OneDrive\Skrivbord\Objektorienterad programmering GIK 299\Lockdown univerity\obj\Debug\netcoreapp3.1\Lockdown univerity.csprojAssemblyReference.cache
+C:\Users\hanna\OneDrive\Skrivbord\Objektorienterad programmering GIK 299\Lockdown univerity\obj\Debug\netcoreapp3.1\Lockdown univerity.AssemblyInfoInputs.cache
+C:\Users\hanna\OneDrive\Skrivbord\Objektorienterad programmering GIK 299\Lockdown univerity\obj\Debug\netcoreapp3.1\Lockdown univerity.AssemblyInfo.cs
+C:\Users\hanna\OneDrive\Skrivbord\Objektorienterad programmering GIK 299\Lockdown univerity\bin\Debug\netcoreapp3.1\Lockdown univerity.exe
+C:\Users\hanna\OneDrive\Skrivbord\Objektorienterad programmering GIK 299\Lockdown univerity\bin\Debug\netcoreapp3.1\Lockdown univerity.deps.json
+C:\Users\hanna\OneDrive\Skrivbord\Objektorienterad programmering GIK 299\Lockdown univerity\bin\Debug\netcoreapp3.1\Lockdown univerity.runtimeconfig.json
+C:\Users\hanna\OneDrive\Skrivbord\Objektorienterad programmering GIK 299\Lockdown univerity\bin\Debug\netcoreapp3.1\Lockdown univerity.runtimeconfig.dev.json
+C:\Users\hanna\OneDrive\Skrivbord\Objektorienterad programmering GIK 299\Lockdown univerity\bin\Debug\netcoreapp3.1\Lockdown univerity.dll
+C:\Users\hanna\OneDrive\Skrivbord\Objektorienterad programmering GIK 299\Lockdown univerity\bin\Debug\netcoreapp3.1\Lockdown univerity.pdb
+C:\Users\hanna\OneDrive\Skrivbord\Objektorienterad programmering GIK 299\Lockdown univerity\obj\Debug\netcoreapp3.1\Lockdown univerity.dll
+C:\Users\hanna\OneDrive\Skrivbord\Objektorienterad programmering GIK 299\Lockdown univerity\obj\Debug\netcoreapp3.1\Lockdown univerity.pdb
